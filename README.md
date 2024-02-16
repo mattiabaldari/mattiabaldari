@@ -1,4 +1,14 @@
-### Hi there 👋
+```json
+Mattia Baldari {
+  "job":      ["Software Engineer"],
+  "company":  ["Kraken"],
+  "birthday": "1989-03-10",
+  "country":  "Italy",
+  "city":     "Milan",
+  "stack":    ["Python", "Postgres", "Bash", "..."],
+  "interest": ["Beach Volley 🏐", "Padel 🎾", "Wakeboard 🏄‍♂️", "Snowboard 🏂", "..."],
+}
+```
 
 <!--
 **mattiabaldari/mattiabaldari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
