@@ -1,12 +1,13 @@
 ```json
-Mattia Baldari {
-  "job":      ["Software Engineer"],
-  "company":  ["Kraken"],
-  "birthday": "1989-03-10",
-  "country":  "Italy",
-  "city":     "Milan",
-  "stack":    ["Python", "Postgres", "Bash", "..."],
-  "interest": ["Beach Volley 🏐", "Padel 🎾", "Wakeboard 🏄‍♂️", "Snowboard 🏂", "..."],
+{
+  "Mattia Baldari": {
+    "job":      "Software Engineer",
+    "company":  "Kraken",
+    "country":  "Italy",
+    "city":     "Milan",
+    "stack":    ["Python", "Django", "GraphQL", "Postgres", "Bash", "..."],
+    "interest": ["Beach Volley 🏐", "Padel 🎾", "Wakeboard 🏄‍♂️", "Snowboard 🏂", "..."],
+  }
 }
 ```
 
